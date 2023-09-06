@@ -18,7 +18,7 @@ These datasets will aid in answering the case study questions and provide insigh
 2. Develop a working visualisation dashboard using Tableau.
 3. Identify additional datasets needed for a comprehensive analysis of air pollution behavior.
 4. Analyze the relationship between outdoor and indoor air pollution.
-5. Investigate the relationship between NOx, SO2, CO, and O3 in relation to PM2.5.
+5. Investigate the relationship between NO<sub>x</sub>, SO<sub>2</sub>, CO, and O<sub>3</sub> in relation to PM2.5.
 6. Choose one sensor from the 20 stations and conduct a full analysis of its location, performance compared to the city and other sensors, factors impacting air pollution behavior in the area, and assumptions about the key pollution sources in the area.
 7. Design a user segmentation analysis of the Nafas App, including a map of how to organize it, and identify the most important events.
 8. Identify additional insights from the dataset.
