@@ -24,4 +24,6 @@ These datasets will aid in answering the case study questions and provide insigh
 8. Identify additional insights from the dataset.
 
 # References
-Nafas: The Air Quality App Built For Jakarta. https://nafas.co.id/
+Nafas. (2023). Nafas: The Air Quality App Built For Jakarta. Retrieved from https://nafas.co.id/
+
+World Health Organization. (2022, December 19). Ambient (outdoor) air pollution. Retrieved from https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health/
