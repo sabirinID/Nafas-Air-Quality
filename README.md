@@ -26,6 +26,8 @@ These datasets will aid in answering the case study questions and provide insigh
 # References
 Nafas. (2023). Nafas: The Air Quality App Built For Jakarta. Retrieved from https://nafas.co.id
 
+U.S. Environmental Protection Agency. (2023, July). Air Quality Analysis. Retrieved from https://www.epa.gov/air-quality-analysis
+
 World Health Organization. (2022, December). Ambient (outdoor) air pollution. Retrieved from https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
 
 Ritchie, H., & Roser, M. (2021, January). Air Pollution. OurWorldInData.org. Retrieved from https://ourworldindata.org/air-pollution
