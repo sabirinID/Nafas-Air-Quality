@@ -1,0 +1,34 @@
+Data Explorer
+	Source: https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1
+
+Here you can find all the raw data that is used in the other modules across the site. Filter the data using the picklists at the top and download data for that module or the whole site for your own analysis.
+
+# Raw Data
+
+To use this data in your own applications, please see our API documentation below:
+
+# API Calls
+GET /api/v1/data/historical_emissions/meta TRY IT
+
+Returns a Link header with meta endpoint urls for discovery (can be used with a HEAD request)
+
+This response only has headers not body
+
+GET /api/v1/data/historical_emissions TRY IT
+
+Retrieves time series data for historical emissions
+
+Query Parameters
+
+	data_sources - source_ids[] - view data source id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/data_sources
+	gases - gas_ids[] - view gas id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/gases
+	sectors - sector_ids[] - view sector id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/sectors
+	regions - regions[] - region ISO code 3 (ISO Codes for World and European Union (27) are WORLD and EUU, respectively)
+	start_year - start_year - Show results from this year onwards
+	end_year - end_year - Show results up to this year
+	sort_col - sort_col - column to sort the table by
+	sort_dir - sort_dir - sort direction (ASC or DESC)
+
+All these parameters accept multiple values, separated by commas. Response is paginated. Pagination headers are in place.
+
+

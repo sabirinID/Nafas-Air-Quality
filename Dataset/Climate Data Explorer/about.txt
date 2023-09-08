@@ -1,0 +1,106 @@
+WRI's Indonesia Climate Data Explorer - Platform Interaktif untuk Data Iklim (PINDAI)
+	Source: https://wri-indonesia.org/en/initiatives/indonesia-climate-data-explorer-platform-interaktif-untuk-data-iklim-pindai
+
+An online platform for climate data and information visualizations that support many dimensions of climate policy making.
+
+Indonesia Climate Data Explorer (CAIT Indonesia), or Platform Interaktif untuk Data Iklim (PINDAI) in Indonesian, an interactive climate data platform for monitoring provincial climate commitments in Indonesia. CAIT Indonesia is part of WRI’s CAIT Climate Data Explorer, one of the most trusted sources of climate data available, which provide free access to comprehensive, reliable and comparable climate-relevant data sets.
+
+CAIT Indonesia allows users can track, monitor and compare provincial historical and projected emissions, climate actions plan, and other climate data and information for all 34 provinces in Indonesia. This includes:
+
+	Emissions profiles of all 34 provinces in Indonesia. Users can learn the top emitting provinces of absolute, per capita and intensity emissions based on publicly available data from the Indonesian government.
+	Primary source of emissions in each province. Each province in Indonesia has unique landforms and economic activities and hence sources of emission differ by province. Understanding this will help not only local governments to come up with the most efficient approach to reduce emissions, but also non-state actors to support this process.
+	Climate commitments in each province so users can better understand provincial mitigation and adaption activities.
+	Provincial development goals. Users can monitor whether a provincial climate commitment is in line with its development priorities (Regional Mid-term Development Planning). By comparing the two, civil society can observe not only alignments but also contradictions or other forms of discrepancy between the province’s development and climate action plans.
+	Progress towards reduction target, which allows users to monitor whether provinces are on track to achieve their emission reduction target.
+
+CAIT Indonesia uses official data and information from Indonesian government agencies. Provincial emissions profiles, sources of emissions and climate commitments are derived from the Regional Action Plan to Reduce Greenhouse Gas Emissions (RAD-GRK) and the Ministry of Environment and Forestry’s SIGN SMART (Sistem Inventarisasi Gas Rumah Kaca Nasional: Sederhana, Mudah, Akurat, Ringkas, & Transparan), provincial development goals data are generated from the Regional Mid-term Development Plan (RPJMD) and progress of reduction target information is obtained from the Monitoring, Evaluation and Reporting (MER) document.
+
+Overall, the platform aims to encourage transparency and participatory development management by being a channel to improve public understanding of any issues of climate data and information at the provincial level. Finally, it aims to help government agencies to identify and implement priority emission reduction measures while increasing emissions reduction ambition over time.
+
+---
+
+CAIT Indonesia Climate Data Explorer (PINDAI) Data
+	Source: https://datasets.wri.org/dataset/cait-indonesia-climate-data-explorer-pindai-data
+
+The Indonesia Climate Data Explorer (PINDAI), an open online platform featuring Indonesian national and provincial level climate policy information and data, including historical and projected emissions, climate actions and development plans.
+
+# Downloads and Resources
+	Regions 1-6
+	Aceh, Sumatera Utara, Sumatera Barat, Riau, Jambi, Sumatera Selatan
+	http://datasets.wri.org/dataset/6434d316-771b-41dc-9498-338212a8a8cd/resource/2a5d1c03-1b9a-41a5-ac68-48f361038d3a/download/radgrk1-6.zip
+
+	Regions 7-14
+	Bengkulu, Lampung, Bangka-Belitung, Kepulauan Riau, Jakarta Raya, Jawa Barat, Jawa Tengah, Yogyakarta
+	http://datasets.wri.org/dataset/6434d316-771b-41dc-9498-338212a8a8cd/resource/a510e816-d54b-4a61-920c-c4ce9125998c/download/radgrk7-14.zip
+
+	Regions 15-23
+	Jawa Timur, Banten, Bali, Nusa Tenggara Barat, Nusa Tenggara Timur, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur
+	http://datasets.wri.org/dataset/6434d316-771b-41dc-9498-338212a8a8cd/resource/ddccd030-b1be-4707-b4cb-b61f94cd7f73/download/radgrk15-23.zip
+
+	Regions 25-34
+	Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan, Sulawesi Tenggara, Gorontalo, Sulawesi Barat, Maluku, Maluku Utara, Irian Jaya Barat, Papua
+	http://datasets.wri.org/dataset/6434d316-771b-41dc-9498-338212a8a8cd/resource/616d91c2-c03a-496b-980b-347ff1b5877e/download/radgrk25-34.zip
+
+	CAIT Indonesia Downloadable File
+	http://datasets.wri.org/dataset/6434d316-771b-41dc-9498-338212a8a8cd/resource/21378be4-a0f4-4e68-9870-b3b8cd4d0525/download/caitindonesia-downloadablefile0
+
+
+# Description
+The data set draws primarily from Local Action Plan for Greenhouse Gas Emission Reduction (RAD GRK), and Medium Term Local Development Plans (RPJMD) of each province in Indonesia. These documents are obtained from Indonesian national and regional government agencies, including the Secretariat of National Action Plan for Greenhouse Gas Emission Reduction (Sekretariat RAN GRK), the National Development Planning Agency (BAPPENAS), and the Provincial Development Planning Agencies (BAPPEDA). The historical emission dataset uses information reported in SIGN SMART (National Greenhouse Gas Inventory System) by Ministry of Environment and Forestry (KLHK).
+
+	1. Aceh
+	2. Sumatera Utara
+	3. Sumatera Barat
+	4. Riau
+	5. Jambi
+	6. Sumatera Selatan
+	7. Bengkulu
+	8. Lampung
+	9. Bangka-Belitung
+	10. Kepulauan Riau
+	11. Jakarta Raya
+	12. Jawa Barat
+	13. Jawa Tengah
+	14. Yogyakarta
+	15. Jawa Timur
+	16. Banten
+	17. Bali
+	18. Nusa Tenggara Barat
+	19. Nusa Tenggara Timur
+	20. Kalimantan Barat
+	21. Kalimantan Tengah
+	22. Kalimantan Selatan
+	23. Kalimantan Timur
+	24. Kalimantan Utara (No RAD GRK document available)
+	25. Sulawesi Utara
+	26. Sulawesi Tengah
+	27. Sulawesi Selatan
+	28. Sulawesi Tenggara
+	29. Gorontalo
+	30. Sulawesi Barat
+	31. Maluku
+	32. Maluku Utara
+	33. Irian Jaya Barat
+	34. Papua
+
+The data set draws primarily from Local Action Plan for Greenhouse Gas Emission Reduction (RAD-GRK) and Medium Term Local Development Plans (RPJMD) of each province in Indonesia, as well as the National Greenhouse Gas Inventory System (SIGN SMART).
+
+For a complete list of downloadable RAD GRK please go to: http://www.wri.org/resources/data-sets/cait-indonesia-climate-data-explorer-pindai-data.
+
+For a comprehensive list of references please go to http://www.wri.org/publication/indonesian-climate-policy-and-data-cait-indonesia-climate-data-explorer-pindai
+
+# Cautions
+Due to the varied quality of data sources for Indonesian provinces, there are certain limitations of the Indonesia Climate Data Explorer, particularly on the quantitative side. In addition, not all RAD-GRKs are accessible by the public on the Sekretariat RAN-GRK website. During data collection, many RAD-GRK documents had to be obtained by directly inquiring to BAPPENAS through e-mail. All those documents are available for download here. For full discussion of methodology and limitations of the data, please refer to the accompanying technical note http://www.wri.org/publication/indonesian-climate-policy-and-data-cait-indonesia-climate-data-explorer-pindai .
+
+# Citation
+WRI, CAIT Climate Data Explorer. 2016. Indonesia Climate Data Explorer (PINDAI, or Platform Interaktif Untuk Data Iklim). Washington, DC: World Resources Institue. Available at: http://cait.wri.org/indonesia
+
+Additionally to citing CAIT Indonesia please consider citing the data sources that CAIT Indonesia is using.
+
+# Access & Use Information
+License: Creative Commons Attribution 4.0 International License. Full license text available at Creative Commons Attribution 4.0
+
+# Metadata
+Project: CAIT Climate Data Explorer
+
+Page Last Updated: August 18, 2016
